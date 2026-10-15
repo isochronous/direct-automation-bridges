@@ -1,5 +1,7 @@
 # Direct Automation Bridges
 
+**This repository is archived.** This project now lives in [isochronous/ONI-Mods](https://github.com/isochronous/ONI-Mods/tree/main/mods/direct-automation-bridges), with its full history; work and new releases continue there. The releases published here stay available.
+
 An [Oxygen Not Included](https://www.klei.com/games/oxygen-not-included) mod: an Automation Wire Bridge or Automation Ribbon Bridge can be placed with either end directly on any automation port cell, and that port counts as connected.
 
 ## What it does
